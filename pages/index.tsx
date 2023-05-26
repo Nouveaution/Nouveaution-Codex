@@ -101,6 +101,10 @@ export async function getServerSideProps() {
   };
 }
 
+export const config = {
+	runtime: 'experimental-edge',
+};
+
 export default MyBook;
 
 const S = {
@@ -116,7 +120,7 @@ const S = {
     width: 300px;
     height: 500px;
     margin: 0 auto;
-    
+    transform: rotate(.1deg);
   `,
   Page: styled.div`
     width: 100%;
