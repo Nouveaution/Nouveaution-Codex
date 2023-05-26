@@ -2,8 +2,6 @@
 
 [Nouveaution.Art](https://nouveaution.art) is a virtual manor, an innovative studio designed to foster artistic expression and creativity. This expansive virtual space, with its diverse rooms and unique ambiances, caters to a spectrum of creative pursuits. From painter's nooks and sculptor's corners to writers' dens and musicians' studios, the manor offers artists the freedom to explore their imagination and craft their masterpieces. Our communal and recreational spaces further encourage collaboration, relaxation, and rejuvenation, creating a balance between work and play.
 
-Utilizing Skybox AI and Marzipano, we transform our artists' visions into reality. Skybox AI empowers our artists to generate stunning 360° worlds from simple text prompts, while Marzipano facilitates the creation of interactive panoramas and virtual tours. These robust tools breathe life into our manor, overlay additional content onto our 360° images, and deliver an immersive, responsive user experience.
-
 Nouveaution.Art is not just a virtual studio—it's a celebration of creativity and a testament to the limitless potential of artistic expression. We offer a sanctuary where the boundaries of time and space dissolve, allowing artists to immerse themselves in their work, connect with fellow creatives, and ultimately, leave a unique imprint on the world.
 
 ## The Nouveaution Codex
