@@ -91,19 +91,15 @@ const MyBook: React.FC<MyBookProps> = ({ pages }) => {
 
 }
 
-export async function getServerSideProps() {
+export async function getStaticProps() {
   const filePaths = await getFilePaths('./codex');
   const pages = await Promise.all(filePaths.map(getMarkdownData));
   return {
     props: {
-      pages,
+      pages
     },
   };
 }
-
-export const config = {
-	runtime: 'experimental-edge',
-};
 
 export default MyBook;
 
