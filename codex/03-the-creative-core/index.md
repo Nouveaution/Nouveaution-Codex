@@ -1,5 +1,7 @@
 # The Creative Core
 
+![Creative Core](/img/creative-core/creative-core.png)
+
 Welcome to the ground floor of Nouveaution Manor, also known as the Creative Core. This vibrant and dynamic space is dedicated to hands-on artistic work, providing a diverse range of studios and resources to support your creative endeavors. Immerse yourself in this creative sanctuary and unleash your artistic potential.
 
 ## Studios and Spaces

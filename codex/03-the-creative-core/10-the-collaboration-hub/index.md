@@ -1,5 +1,7 @@
 # The Collaboration Hub
 
+![The Collaboration Hub](/img/creative-core/collaboration-hub.png)
+
 Welcome to the Collaboration Hub, a dynamic and inclusive space designed to foster collaboration, cross-disciplinary exploration, and the convergence of artistic visions. This hub serves as a meeting point for artists from different disciplines to come together, share ideas, and embark on collaborative projects that transcend the boundaries of traditional art forms.
 
 ## Features and Amenities

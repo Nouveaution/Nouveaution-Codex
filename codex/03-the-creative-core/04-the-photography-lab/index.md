@@ -1,5 +1,7 @@
 # The Photography Lab
 
+![The Photography Lab](/img/creative-core/photography-lab.png)
+
 Welcome to the Photography Lab, a dedicated space for photographers to unleash their creativity and explore the art of capturing captivating visuals. This lab provides photographers with the necessary tools and facilities to experiment with different techniques, develop their skills, and bring their photographic visions to life.
 
 ## Features and Amenities

@@ -1,5 +1,7 @@
 # The Game Developers Arena
 
+![Game Developers Area](/img/creative-core/game-developers-area.png)
+
 Welcome to the Game Developers Arena, a dynamic space dedicated to game development and interactive experiences. This arena provides game developers with the tools, resources, and collaborative environment to design, prototype, and create captivating games that push the boundaries of interactive storytelling and gameplay.
 
 ## Features and Amenities

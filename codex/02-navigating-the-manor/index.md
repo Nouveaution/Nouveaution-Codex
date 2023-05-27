@@ -1,6 +1,9 @@
 # Navigating the Manor
 
+![Site map](/img/maps/sitemap.png)
+
 Welcome to the Nouveaution Manor, a virtual space that transcends the boundaries of time and space. Navigating through this immersive environment requires an understanding of the architectural layout and the purpose of each room. Let us be your guide as we explore the various areas and unveil the secrets of Nouveaution Manor.
+
 
 ## The Architectural Layout
 

@@ -1,5 +1,7 @@
 # The Film Editors Loft
 
+![The Film Editors Loft](/img/creative-core/film-editors-loft.png)
+
 Welcome to the Film Editors Loft, a dedicated space for film editors to shape narratives, craft compelling stories, and bring cinematic visions to life. This loft provides film editors with the tools, resources, and collaborative environment necessary for post-production work and creating visually stunning films.
 
 ## Features and Amenities

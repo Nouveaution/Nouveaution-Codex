@@ -1,5 +1,7 @@
 # The Choreographers Stage
 
+![The Choreographers Stage](/img/creative-core/choreographers-stage.png)
+
 Welcome to the Choreographers Stage, a vibrant space where dancers and choreographers can express their artistic vision and create mesmerizing dance performances. This stage is designed to provide a versatile and immersive environment for choreography exploration, rehearsals, and captivating dance presentations.
 
 ## Features and Amenities

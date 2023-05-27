@@ -1,5 +1,7 @@
 # The Sculptors Den
 
+![The Sculptors Den](/img/creative-core/sculptors-den.png)
+
 Welcome to the Sculptors Den, a dedicated space for sculptors to unleash their creativity and bring three-dimensional art to life. This room provides sculptors with the necessary tools and resources to explore various sculpting techniques and create awe-inspiring masterpieces.
 
 ## Features and Amenities

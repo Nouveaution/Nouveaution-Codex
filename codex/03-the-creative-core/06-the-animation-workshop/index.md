@@ -1,5 +1,7 @@
 # The Animation Workshop
 
+![The Animation Workshop](/img/creative-core/animation-workshop.png)
+
 Welcome to the Animation Workshop, a dedicated space for animators to bring their imaginative characters and stories to life through the art of animation. This workshop is equipped with the necessary tools, software, and resources to support the animation process and facilitate the creation of captivating animated films, shorts, and visual effects.
 
 ## Features and Amenities

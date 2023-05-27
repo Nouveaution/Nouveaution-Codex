@@ -1,5 +1,7 @@
 # The Sketch Room
 
+![The Sketch Room](/img/creative-core/sketch-room.png)
+
 Welcome to the Sketch Room, a space dedicated to the art of sketching and drawing. This room is designed to inspire your creativity and provide a tranquil environment for sketching your ideas, creating preliminary drawings, and honing your artistic skills.
 
 ## Features and Amenities

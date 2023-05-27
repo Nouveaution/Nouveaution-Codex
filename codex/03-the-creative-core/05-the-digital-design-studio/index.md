@@ -1,5 +1,7 @@
 # The Digital Design Studio
 
+![The Digital Design Studio](/img/creative-core/digital-design-studio.png)
+
 Welcome to the Digital Design Studio, a creative sanctuary for digital artists and designers to unleash their imagination and bring their visions to life using cutting-edge digital tools. This studio is equipped with state-of-the-art technology and software to support a wide range of digital design disciplines, from graphic design to digital illustration and beyond.
 
 ## Features and Amenities

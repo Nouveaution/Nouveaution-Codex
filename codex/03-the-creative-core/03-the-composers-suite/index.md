@@ -1,5 +1,7 @@
 # The Composers Suite
 
+![The Composers Suite](/img/creative-core/composers-suite.png)
+
 Welcome to the Composers Suite, a haven for musicians and composers to channel their creativity and craft mesmerizing musical compositions. This space is carefully designed to inspire and support the artistic process, providing composers with the tools and resources they need to bring their musical visions to life.
 
 ## Features and Amenities
