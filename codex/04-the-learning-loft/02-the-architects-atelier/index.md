@@ -1,5 +1,7 @@
 # The Architects Atelier
 
+![The Learning Loft](/img/learning-loft/architects-atelier.png)
+
 Welcome to the Architects Atelier, a space dedicated to architectural design and exploration within Nouveaution Manor. This atelier serves as a creative sanctuary for architects, architectural students, and enthusiasts to unleash their design prowess, engage in collaborative projects, and shape the built environment with their innovative ideas.
 
 ## Features and Amenities

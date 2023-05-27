@@ -115,14 +115,11 @@ const MyBook: React.FC<MyBookProps> = ({ pages }) => {
       <Head>
         <title>The Nouveaution Codex</title>
       </Head>
-      <button onClick={prevButtonClick}>Flip</button>
-
       {/* @ts-ignore */}
       <S.Book
         width={550} 
         height={730}
         showCover
-        drawShadow={false}
         ref={bookRef}
         
         onFlip={handleFlip}
@@ -149,7 +146,6 @@ const MyBook: React.FC<MyBookProps> = ({ pages }) => {
           <Page key={i} number={i + 2} content={content} />
         ))}
       </S.Book>
-      <button onClick={nextButtonClick}>Flip</button>
       <button onClick={turnToPage}>Resume</button>
     </S.Desk>
    
@@ -177,7 +173,10 @@ const S = {
     align-items: center;
     justify-content: center;
 
-   
+   button {
+    background: none;
+    border: none;
+   }
   `,
 
   Image: styled.img`

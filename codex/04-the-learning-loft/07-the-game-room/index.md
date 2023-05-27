@@ -1,5 +1,7 @@
 # The Game Room
 
+![The Game Room](/img/learning-loft/game-room.png)
+
 Welcome to the Game Room, a space within Nouveaution Manor dedicated to the world of interactive entertainment and game development. This vibrant room invites game enthusiasts, developers, and creatives to immerse themselves in the art and technology of games, explore new gaming experiences, and collaborate on game development projects.
 
 ## Features and Amenities

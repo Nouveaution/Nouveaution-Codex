@@ -1,5 +1,7 @@
 # The Learning Loft
 
+![The Learning Loft](/img/learning-loft/learning-loft.png)
+
 Welcome to the first floor of Nouveaution Manor, known as the Learning Loft. This floor is dedicated to education, ideation, and relaxation, providing a harmonious balance between focused learning spaces and areas for collaborative exploration. Step into this inspiring environment and embark on a journey of knowledge and creativity.
 
 ## Spaces for Learning and Inspiration

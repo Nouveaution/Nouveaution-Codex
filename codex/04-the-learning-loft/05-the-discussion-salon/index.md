@@ -1,5 +1,7 @@
 # The Discussion Salon
 
+![The Discussion Salon](/img/learning-loft/discussion-salon.png)
+
 Welcome to the Discussion Salon, a space within Nouveaution Manor designed for intellectual exchange, thought-provoking conversations, and the exploration of ideas. This salon serves as a hub for engaging discussions, debates, and presentations, fostering a vibrant intellectual community within the manor.
 
 ## Features and Amenities

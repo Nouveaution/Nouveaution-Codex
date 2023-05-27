@@ -1,5 +1,7 @@
 # The Scriptorium
 
+![The Scriptorium](/img/learning-loft/scriptorium.png)
+
 Welcome to the Scriptorium, a haven for writers, wordsmiths, and storytellers to immerse themselves in the world of literature and bring their written creations to life. This serene space is designed to inspire creativity, nurture writing skills, and foster a sense of community among writers within Nouveaution Manor.
 
 ## Features and Amenities

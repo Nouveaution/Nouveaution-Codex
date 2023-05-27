@@ -1,5 +1,7 @@
 # The Idea Incubator
 
+![The Idea Incubator](/img/learning-loft/idea-incubator.png)
+
 Welcome to the Idea Incubator, a space within Nouveaution Manor dedicated to nurturing creativity, fostering innovation, and bringing ideas to life. This incubator serves as a supportive environment for individuals to develop their innovative concepts, collaborate with like-minded thinkers, and transform their ideas into tangible projects and initiatives.
 
 ## Features and Amenities

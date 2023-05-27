@@ -1,5 +1,7 @@
 # The Serenity Garden
 
+![The Serenity Garden](/img/learning-loft/serenity-garden.png)
+
 Welcome to the Serenity Garden, a tranquil oasis nestled within Nouveaution Manor. This garden offers a serene and peaceful environment where individuals can find solace, reconnect with nature, and rejuvenate their senses. It serves as a retreat for reflection, relaxation, and a source of inspiration for artists and creatives within the manor.
 
 ## Features and Amenities

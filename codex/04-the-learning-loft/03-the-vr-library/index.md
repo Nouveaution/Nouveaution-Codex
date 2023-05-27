@@ -1,5 +1,7 @@
 # The VR Library
 
+![The VR Library](/img/learning-loft/vr-library.png)
+
 Welcome to the VR Library, a cutting-edge space where virtual reality enthusiasts can dive into immersive experiences, explore virtual worlds, and push the boundaries of storytelling and interactive media. This library is dedicated to showcasing the possibilities of virtual reality technology and its applications in art, entertainment, education, and more.
 
 ## Features and Amenities

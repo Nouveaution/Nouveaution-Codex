@@ -1,5 +1,7 @@
 # The Training Ground
 
+![The Training Ground](/img/learning-loft/training-ground.png)
+
 Welcome to the Training Ground, a dedicated space within Nouveaution Manor where artists and creatives can enhance their skills, learn new techniques, and engage in structured training programs. This multifaceted space provides opportunities for individuals to develop their artistic abilities and explore various disciplines in a supportive and immersive environment.
 
 ## Features and Amenities
